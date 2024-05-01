@@ -1,13 +1,13 @@
-#/home/flav/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py -f /home/flav/.local/share/jupyter/runtime/kernel-a0f3840b-48cd-485e-bcd3-291160daa5dc.json
-# GMT Mon Mar 25 11:13:56 2024
+#/home/flav/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py -f /home/flav/.local/share/jupyter/runtime/kernel-d5877b12-93df-4d12-b60f-a6c731d38fbe.json
+# GMT Tue Apr 30 13:23:01 2024
 # 
 d messageOverhead
-messageOverhead
 messageReceived messageOverhead
 graft
 prune messageReceived messageOverhead
-dlo messageOverhead
+dlo messageReceived messageOverhead
 dhi messageOverhead
+dout messageReceived messageOverhead
+messageOverhead
 topics messageReceived messageOverhead
 topicSize messageReceived messageOverhead
-dout messageOverhead
